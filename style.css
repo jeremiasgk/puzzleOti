@@ -1,0 +1,49 @@
+body {
+    background-color: #e69e9e;
+    color: #ffffff;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  
+  #center {
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    max-width: 100%;
+  }
+  
+  /* Doki Doki Literature Club Theme */
+
+  h1 {
+    color: #ff0000;
+    font-family: 'Pacifico', cursive;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+  #center {
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+
+  #player {
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    max-width: 100%;
+  }
